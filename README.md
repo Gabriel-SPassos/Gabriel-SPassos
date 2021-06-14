@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gabriel-SPassos
+- 👋 Hi, I’m Gabriel Passos (@Gabriel-SPassos)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me: 
